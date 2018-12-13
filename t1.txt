@@ -1,0 +1,2 @@
+delete and remove not return deleted object.
+findand delete and findand remove will return deleted obj

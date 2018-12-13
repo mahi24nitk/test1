@@ -1,0 +1,2 @@
+ng build --prod (for production)
+ng build --prod -c development (for development)
